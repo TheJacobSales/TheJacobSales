@@ -1,3 +1,6 @@
+<p align="center">
+  <img style="height: 300px; margin: auto; display: block;" src="https://i.pinimg.com/originals/d2/9b/5b/d29b5bec682f9f0e608fd63c999609a2.gif"/>
+</p>
 <h1 align="center">Hi 👋, I'm Jacob Sales</h1>
 <h3 align="center">I'm a Computer Engineer looking for fun software to build!</h3>
 <h2>About me:<h2/>

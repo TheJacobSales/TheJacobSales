@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jacob Sales</h1>
 <h3 align="center">I'm a Computer Engineer looking for fun software to build!</h3>
-## About me:
+##About me:
 
 - 🌱 I’m currently learning **Javascript and React.**
 
